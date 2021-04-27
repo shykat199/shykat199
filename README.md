@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shykat
-- 👀 I’m interested in Java programming, Development, Desiging ect.
+- 👀 I’m interested in Java programming, Development, Desiging, Software testing ect.
 - 🌱 I’m currently learning Big Data, java servlet,javaFx,java spring boot.
 - 💞️ I’m looking to collaborate on any java project.
 - 📫 How to reach me = this is my mail "shykatroybdku199@gmail.com"
