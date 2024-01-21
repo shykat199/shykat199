@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @shykat
-- 👀 I’m interested in Java programming, Development, Desiging, Software testing ect.
-- 🌱 I’m currently learning Big Data, java servlet,javaFx,java spring boot.
-- 💞️ I’m looking to collaborate on any java project.
-- 📫 How to reach me = this is my mail "shykatroybdku199@gmail.com"
-
-<!---
-shykat199/shykat199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Greetings! I'm Shykat Roy, a seasoned software engineer and web app developer, specializing in the intricate realm of API development. My journey has been marked by a proficiency in Server Side Programming, Javascript, Laravel, and PHP, where I've successfully engineered robust and scalable solutions that power dynamic web applications. With a keen eye for efficiency, my expertise extends to database management, where I fine-tune MySQL queries to ensure seamless data operations, fostering a reliable and smooth backend system.
