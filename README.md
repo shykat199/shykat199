@@ -1,15 +1,46 @@
-<div align="center">
+<svg viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Shykat Roy, Full-Stack Developer and Backend API Specialist">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff6b54"/>
+      <stop offset="1" stop-color="#e84b37"/>
+    </linearGradient>
+  </defs>
 
-<!-- Self-hosted banner — lives in this repo, no external service, never breaks -->
-<img src="./banner.svg" width="100%" alt="Shykat Roy — Full-Stack Developer, Backend & API Specialist" />
+  <!-- background -->
+  <rect width="1200" height="240" rx="16" fill="url(#bg)"/>
 
-<br/><br/>
+  <!-- ambient code glyph (signature, very subtle) -->
+  <text x="1080" y="170" font-family="'SF Mono','Consolas','Liberation Mono',Menlo,monospace"
+        font-size="190" font-weight="700" fill="#e84b37" opacity="0.05"
+        text-anchor="middle">&lt;/&gt;</text>
 
-<a href="https://www.linkedin.com/in/shykat-roy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/shykat199"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:shykatroy.11815813@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- left accent bar -->
+  <rect x="0" y="0" width="8" height="240" rx="4" fill="url(#accent)"/>
 
-</div>
+  <!-- terminal prompt eyebrow -->
+  <text x="72" y="78" font-family="'SF Mono','Consolas','Liberation Mono',Menlo,monospace"
+        font-size="16" letter-spacing="1">
+    <tspan fill="#8b949e">shykat@github</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#8b949e">~</tspan><tspan fill="#e84b37" font-weight="700">$ </tspan><tspan fill="#c9d1d9">whoami</tspan>
+  </text>
+
+  <!-- name (hero) -->
+  <text x="70" y="142" font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="66" font-weight="800" fill="#f0f6fc" letter-spacing="-1">Shykat Roy</text>
+
+  <!-- syntax-highlighted subtitle -->
+  <text x="72" y="186" font-family="'SF Mono','Consolas','Liberation Mono',Menlo,monospace"
+        font-size="20">
+    <tspan fill="#e84b37">const</tspan><tspan fill="#c9d1d9"> role </tspan><tspan fill="#8b949e">= </tspan><tspan fill="#a5d6ff">"Full-Stack Developer · Backend &amp; API Specialist"</tspan>
+  </text>
+
+  <!-- tech stack line -->
+  <text x="72" y="216" font-family="'SF Mono','Consolas','Liberation Mono',Menlo,monospace"
+        font-size="14" fill="#8b949e" letter-spacing="0.5">Laravel  ·  React  ·  Next.js  ·  MySQL  ·  PostgreSQL  ·  Supabase</text>
+</svg>
 
 ---
 
