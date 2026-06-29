@@ -15,16 +15,16 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** with **3+ years** of experience building scalable, high-performance web applications and **SaaS platforms**. I specialize in **backend development** — API design, database architecture, and server-side optimization — backed by strong frontend skills in **React.js** and **Next.js**.
+I'm a **Full-Stack Developer** with **3+ years** of experience building scalable, high-performance web applications and **SaaS platforms**. I specialise in **backend development** — API design, database architecture, and server-side optimization — backed by strong frontend skills in **React.js** and **Next.js**.
 
 I've shipped production platforms across **eCommerce** and **fintech**, and I bring **AI tools into my daily workflow** to prototype and ship faster. My systems don't just work — they work **fast, clean, and reliable.** 🚀
 
-```js
+``` js
 const shykat = {
   role: "Full-Stack Developer",
   focus: ["Backend Engineering", "API Design", "SaaS Products"],
   stack: { backend: ["Laravel", "PHP"], frontend: ["React", "Next.js"], db: ["MySQL", "PostgreSQL"] },
-  currentlyExploring: ["AI-assisted development", "Workflow automation (n8n)"],
+  Currently exploring: ["AI-assisted development", "Workflow automation (n8n)"],
   motto: "Build real things, learn relentlessly, ship faster.",
 };
 ```
