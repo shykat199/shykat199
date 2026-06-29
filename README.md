@@ -69,6 +69,29 @@ const shykat = {
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shykat199&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=e84b37&icon_color=e84b37&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shykat199&layout=compact&hide_border=true&langs_count=8&title_color=e84b37&text_color=c9d1d9&bg_color=0d1117" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=shykat199&theme=dark&hide_border=true&background=0D1117&ring=E84B37&fire=E84B37&currStreakLabel=E84B37&sideLabels=c9d1d9&dates=8b949e" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shykat199&bg_color=0d1117&color=e84b37&line=e84b37&point=ffffff&area=true&hide_border=true" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=shykat199&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=5" />
+
+</div>
+
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
