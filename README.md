@@ -73,9 +73,6 @@ const shykat = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shykat199&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=e84b37&icon_color=e84b37&text_color=c9d1d9&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shykat199&layout=compact&hide_border=true&langs_count=8&title_color=e84b37&text_color=c9d1d9&bg_color=0d1117" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=shykat199&theme=dark&hide_border=true&background=0D1117&ring=E84B37&fire=E84B37&currStreakLabel=E84B37&sideLabels=c9d1d9&dates=8b949e" />
