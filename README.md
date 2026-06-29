@@ -1,17 +1,16 @@
 <div align="center">
 
 <!-- ======================= HEADER BANNER ======================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:e84b37&height=210&section=header&text=Shykat%20Roy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Backend%20%26%20API%20Specialist&descAlignY=56&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:e84b37&height=210&section=header&text=Shykat%20Roy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20and%20Backend%20Specialist&descAlignY=56&descSize=18" />
 
 <!-- ======================= TYPING ANIMATION ======================= -->
-<a href="https://dnox.xyz">
+<a href="https://www.linkedin.com/in/shykay-roy/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E84B37&center=true&vCenter=true&width=620&lines=Building+scalable+SaaS+%26+APIs;Laravel+%C2%B7+React+%C2%B7+Next.js;Backend-strong%2C+AI-accelerated;Shipping+production+apps+for+3%2B+years" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- ======================= QUICK BADGES ======================= -->
-<a href="https://dnox.xyz"><img src="https://img.shields.io/badge/Portfolio-dnox.xyz-e84b37?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/shykay-roy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:shykatroy.11815813@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=shykat199&color=e84b37&style=for-the-badge&label=Profile+Views" />
@@ -105,7 +104,6 @@ const shykat = {
 
 I'm always open to collaboration, interesting projects, and good conversations about building software.
 
-<a href="https://dnox.xyz"><img src="https://img.shields.io/badge/Portfolio-e84b37?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/shykay-roy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/shykat199"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:shykatroy.11815813@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
