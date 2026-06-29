@@ -83,8 +83,6 @@ const shykat = {
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=shykat199&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=5" />
-
 </div>
 
 ---
